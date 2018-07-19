@@ -1,0 +1,8 @@
+{
+  "name": "Demineur",
+  "app_id": "0488d506",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
